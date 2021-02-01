@@ -150,7 +150,7 @@ print(array)
 n = 3
 m = 4
 array = [[0] * m for _ in range(n)]
-print(array)
+print("리스트 컴프리헨션 2차원 배열 : ", array)
 
 # 언더바(_) : 반복을 수행하되 반복을 위한 변수의 값을 무시하고자 할 때 언더바 사용
 for _ in range(5):
@@ -161,7 +161,7 @@ for _ in range(5):
 n = 3
 m = 4
 array = [[0] * m] * n
-print(array)
+print("2차원 배열 : ", array)
 
 array[1][1] = 5
 print(array)
