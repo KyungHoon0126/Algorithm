@@ -16,6 +16,8 @@ input_data = input()
 row = int(input_data[1])
 column = int(ord(input_data[0])) - int(ord('a')) + 1
 
+print(column)
+
 # 나이트가 이동할 수 있는 8가지 방향 정의
 steps = [(-2, 1), (-1, -2), (1, -2), (2, -1), (2, 1), (1, 2), (-1, 2), (-2, 1)]
 
