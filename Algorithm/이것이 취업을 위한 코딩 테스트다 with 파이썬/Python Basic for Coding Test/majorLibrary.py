@@ -30,7 +30,7 @@ result = sorted([('홍길동', 35), ('이순신', 75), ('이무개', 50)], key=l
 print(result)
 
 '''
-itertools - 반복되는 데이터를 처리하는 기느을 포함하고 있는 라이브러리
+itertools - 반복되는 데이터를 처리하는 기능을 포함하고 있는 라이브러리
 '''
 
 from itertools import permutations
@@ -56,7 +56,7 @@ result = list(combinations(data, 2))
 print("combinations : ", result)
 
 #  product : permutations와 같이 리스트와 같은 iterable 객체에서 r개의 데이터를 뽑아 일렬로 나열하는 모든 경우(순열)를 계산. 다만 원소를 중복하여 뽑는다.
-#  객체를 초기화 할 때는 뽑고자 하는 데이터의 수를 repeat 속성값으로 ㄴ허어준다.
+#  객체를 초기화 할 때는 뽑고자 하는 데이터의 수를 repeat 속성값으로 넣어준다.
 
 from itertools import product
 
@@ -75,7 +75,7 @@ result = list(combinations_with_replacement(data, 2))
 print("combinations_with_replacement : ", result)
 
 '''
-heapq - 다익스트라 최단 경로 알고리즘을 포함해 다양한 알고리즘에서 우선순위 큐 기능을 구현하고자 할 때 사요
+heapq - 다익스트라 최단 경로 알고리즘을 포함해 다양한 알고리즘에서 우선순위 큐 기능을 구현하고자 할 때 사용
 '''
 
 import heapq
@@ -119,7 +119,7 @@ print("max heap : ", result)
 bisect : 이진 탐색
 '''
 
-#  bisect_left : 정렬된 순서르 유지하면서 가장 왼쪽 인덱스를 찾는 메서드
+#  bisect_left : 정렬된 순서를 유지하면서 가장 왼쪽 인덱스를 찾는 메서드
 #  bisect_right : 정렬된 순서를 유지하도록 가장 오른쪽 인덱스를 찾는 메서드
 
 from bisect import bisect_left, bisect_right
@@ -167,7 +167,7 @@ print("deque to list : ", list(data))  # 리스트 자료형으로 변환
 from collections import Counter
 
 counter = Counter(['red', 'blue', 'red', 'green', 'blue', 'blue'])
-
+print(counter)
 print("counter : ", counter['blue'])  # 'blue'가 등장한 횟수 출력
 print("counter : ", counter['green'])  # 'green'이 등장한 횟수 출력
 print("counter to dict : ", dict(counter))  # 사전 자료형으로 변환
