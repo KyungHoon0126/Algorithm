@@ -1,0 +1,6 @@
+SELECT ANIMAL_ID, NAME
+FROM ANIMAL_INS
+WHERE INTAKE_CONDITION <> 'Aged'
+
+
+# "<>" 기호는 "!=" 과 같다. 즉 INTAKE_CONDITION 중에 Aged가 아닌 것만을 가져온다.
