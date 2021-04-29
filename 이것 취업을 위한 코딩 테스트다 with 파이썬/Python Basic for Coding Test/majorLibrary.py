@@ -1,5 +1,7 @@
 '''
 주요 라이브러리의 문법
+
+https://rfriend.tistory.com/327
 '''
 
 '''
