@@ -1,5 +1,7 @@
 import heapq
 
+# 힙 - 더 맵게
+
 def solution(scoville, K):
     heap = []
     for value in scoville:
