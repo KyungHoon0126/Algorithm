@@ -20,13 +20,13 @@ def solution(n, m):
     print(f'최대 공약수(GCD) : {gcd_number} / 최소 공배수(LCM) : {lcm_number}')
 
 
-
 # 모듈 이용
 import math
+
 math.factorial(5)
 
 n, m = int(input().split())
-math.gcd(n, m) # 최대공약수
-math.lcm(n, m) # 최소공배수
+math.gcd(n, m)  # 최대공약수
+math.lcm(n, m)  # 최소공배수
 
 # 최소공배수 : int((n * m) / math.gcd(n * m))
