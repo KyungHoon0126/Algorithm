@@ -15,7 +15,6 @@ def solution(s):
         while pos + i <= len(s):
             # 압축하고자 하는 단위만큼 문자열을 얻어옴.
             unit = s[pos:pos + i]  # a, ab, aba
-            print('unit1', unit)
             pos += i
             # 몇 번 반복 되었는지 계산.
             cnt = 0
@@ -23,7 +22,6 @@ def solution(s):
             while pos + i <= len(s):
                 # 만약 i가 2라고 가정하면, 현재 unit = ab, 이 unit의 단위만큼 문자열을 비교.
                 if unit == s[pos:pos + i]:
-                    print('unit2', unit)
                     cnt += 1
                     pos += i
                 else:
@@ -31,9 +29,6 @@ def solution(s):
 
             # 반복된게 있다면, 문자열이 압축되었다는 것.
             if cnt > 0:
-                print('cnt', cnt)
-                print('length', length)
-                
                 # 반복된 횟수만큼 문자열을 빼주고 숫자를 적어줘야 함.
                 length -= i * cnt 
 
@@ -54,5 +49,6 @@ def solution(s):
 
 
 test_case = ["aabbaccc", "ababcdcdababcdcd", "abcabcdede", "abcabcabcabcdededededede", "xababcdcdababcdcd"]
+
 for i in test_case:
     solution(i)
