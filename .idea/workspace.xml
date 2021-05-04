@@ -2,7 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11dbb492-a36d-4e39-b781-d5495a250839" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/PROGRAMMERS/SQL/GROUP BY/고양이와 개는 몇 마리 있을까" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROGRAMMERS/SQL/GROUP BY/동명 동물 수 찾기" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROGRAMMERS/SQL/GROUP BY/입양 시각 구하기(1)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROGRAMMERS/SQL/GROUP BY/입양 시각 구하기(2)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROGRAMMERS/SQL/IS NULL/NULL 처리하기" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROGRAMMERS/SQL/IS NULL/이름이 없는 동물의 아이디" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROGRAMMERS/SQL/IS NULL/이름이 있는 동물의 아이디" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROGRAMMERS/SQL/JOIN/없어진 기록 찾기" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROGRAMMERS/SQL/SELECT/상위 n개 레코드" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROGRAMMERS/SQL/SUM, MAX, MIN/동물 수 구하기" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROGRAMMERS/SQL/SUM, MAX, MIN/중복 제거하기" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROGRAMMERS/SQL/SUM, MAX, MIN/최솟값 구하기" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROGRAMMERS/SQL/String, Date/DATETIME에서 DATE로 형 변환" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROGRAMMERS/SQL/String, Date/루시와 엘라 찾기" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROGRAMMERS/SQL/String, Date/오랜 기간 보호한 동물(2)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROGRAMMERS/SQL/String, Date/이름에 EL이 들어가는 동물 찾기" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROGRAMMERS/SQL/String, Date/중성화 여부 파악하기" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROGRAMMERS/SQL/동물의 아이디와 이름" beforeDir="false" afterPath="$PROJECT_DIR$/PROGRAMMERS/SQL/SELECT/동물의 아이디와 이름" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROGRAMMERS/SQL/모든 레코드 조회하기" beforeDir="false" afterPath="$PROJECT_DIR$/PROGRAMMERS/SQL/SELECT/모든 레코드 조회하기" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROGRAMMERS/SQL/아픈 동물찾기" beforeDir="false" afterPath="$PROJECT_DIR$/PROGRAMMERS/SQL/SELECT/아픈 동물찾기" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROGRAMMERS/SQL/어린 동물 찾기" beforeDir="false" afterPath="$PROJECT_DIR$/PROGRAMMERS/SQL/SELECT/어린 동물 찾기" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROGRAMMERS/SQL/여러 기준으로 정렬하기" beforeDir="false" afterPath="$PROJECT_DIR$/PROGRAMMERS/SQL/SELECT/여러 기준으로 정렬하기" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROGRAMMERS/SQL/역순 정렬하기" beforeDir="false" afterPath="$PROJECT_DIR$/PROGRAMMERS/SQL/SELECT/역순 정렬하기" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROGRAMMERS/SQL/이름이 없는 동물의 아이디" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROGRAMMERS/SQL/최댓값 구하기" beforeDir="false" afterPath="$PROJECT_DIR$/PROGRAMMERS/SQL/SUM, MAX, MIN/최댓값 구하기" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +58,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kidi0\Project\Algorithm\PROGRAMMERS\SQL\SUM, MAX, MIN" />
+      <recent name="C:\Users\kidi0\Project\Algorithm\PROGRAMMERS\SQL\SELECT" />
       <recent name="C:\Users\kidi0\Project\Algorithm\venv\Include" />
     </key>
   </component>
@@ -167,6 +194,7 @@
       <updated>1619936224089</updated>
       <workItem from="1619936226545" duration="8285000" />
       <workItem from="1619999750318" duration="24863000" />
+      <workItem from="1620085570173" duration="1461000" />
     </task>
     <servers />
   </component>
