@@ -1,0 +1,7 @@
+
+# COUNT(컬럼명)을 사용하면 NULL 값은 제외하고 COUNT한다.
+# COUNT(*)를 사용하면 NULL도 포함. 빈 문자열은 포함됨.
+
+SELECT COUNT(DISTINCT(NAME))
+FROM ANIMAL_INS
+WHERE NAME IS NOT NULL
