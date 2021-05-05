@@ -1,4 +1,3 @@
-
 # N진수 -> 10진수 : int()
 # 2진수 -> bin() / 8진수 -> oct() / 16진수 -> hex()
 
@@ -7,6 +6,7 @@
 '''
 Case 1
 '''
+
 
 def convert1(number, n):
     answer = []
@@ -22,14 +22,18 @@ def convert1(number, n):
 Case 2
 '''
 import string
+
 # string.digits : 0123456789
 # string.ascii_lowercase : abcdefghijklmnopqrstuvwxyz
 
 tmp = string.digits + string.ascii_lowercase
 
+
 def convert2(num, base):
     q, r = divmod(num, base)
-    if q == 0 :
-        return tmp[r] # 0
+    if q == 0:
+        return tmp[r]  # 0
     else:
         return convert2(q, base) + tmp[r]
+
+# print(convert1(12, 2)) # 1200
