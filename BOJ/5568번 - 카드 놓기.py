@@ -15,7 +15,7 @@ answer = set()  # set 자료형, 중복 허용 X, 순서 X
 # add() : 값 1개 추가 / update() : 값 여러개 추가 / remove() : 특정 값 제거
 
 for i in permutations(cards, case):
-    # answer.add(int(strㅈ(i[0]) + str(i[1])))
+    # answer.add(int(str(i[0]) + str(i[1])))
     answer.add(''.join(i))
 
 print(answer)

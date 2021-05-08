@@ -174,12 +174,12 @@ print("counter : ", counter['blue'])  # 'blue'가 등장한 횟수 출력
 print("counter : ", counter['green'])  # 'green'이 등장한 횟수 출력
 print("counter to dict : ", dict(counter))  # 사전 자료형으로 변환
 
-
 '''
 math
 '''
 
 import math
+
 print("factorial 5! : ", math.factorial(5))
 
 #  sqrt() : 제곱근 반환

@@ -1,5 +1,5 @@
-
 from itertools import permutations
+
 
 def is_prime_number(number):
     if number != 1:
