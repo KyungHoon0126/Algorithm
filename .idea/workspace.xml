@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11dbb492-a36d-4e39-b781-d5495a250839" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PROGRAMMERS/Level 2/N개의 최소공배수.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snippet/팩토리얼.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snippet/피보나치 수열.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/5568번 - 카드 놓기.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ/5568번 - 카드 놓기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PROGRAMMERS/Level 1/모의고사.py" beforeDir="false" afterPath="$PROJECT_DIR$/PROGRAMMERS/Level 1/모의고사.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PROGRAMMERS/Level 2/Brute Force/소수 찾기.py" beforeDir="false" afterPath="$PROJECT_DIR$/PROGRAMMERS/Level 2/Brute Force/소수 찾기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PROGRAMMERS/Level 2/Brute Force/카펫.py" beforeDir="false" afterPath="$PROJECT_DIR$/PROGRAMMERS/Level 2/Brute Force/카펫.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PROGRAMMERS/Level 2/Sort/가장 큰 수.py" beforeDir="false" afterPath="$PROJECT_DIR$/PROGRAMMERS/Level 2/Sort/가장 큰 수.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/이것 취업을 위한 코딩 테스트다 with 파이썬/Python Basic for Coding Test/majorLibrary.py" beforeDir="false" afterPath="$PROJECT_DIR$/이것 취업을 위한 코딩 테스트다 with 파이썬/Python Basic for Coding Test/majorLibrary.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -249,6 +241,8 @@
       <workItem from="1620085570173" duration="35122000" />
       <workItem from="1620176950482" duration="33267000" />
       <workItem from="1620261482618" duration="30808000" />
+      <workItem from="1620449559198" duration="362000" />
+      <workItem from="1620519480109" duration="742000" />
     </task>
     <servers />
   </component>
