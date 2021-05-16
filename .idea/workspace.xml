@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11dbb492-a36d-4e39-b781-d5495a250839" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/PROGRAMMERS/Level 1/로또의 최고 순위와 최저 순위.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROGRAMMERS/Level 1/약수의 개수와 덧셈.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Snippet/N진법 변환.py" beforeDir="false" afterPath="$PROJECT_DIR$/SNIPPET/N진법 변환.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Snippet/날짜 비교.py" beforeDir="false" afterPath="$PROJECT_DIR$/SNIPPET/날짜 비교.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Snippet/문자열 압축.py" beforeDir="false" afterPath="$PROJECT_DIR$/SNIPPET/문자열 압축.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Snippet/소수 판별.py" beforeDir="false" afterPath="$PROJECT_DIR$/SNIPPET/소수 판별.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Snippet/유니온 파인드(DSU, Union Find).py" beforeDir="false" afterPath="$PROJECT_DIR$/SNIPPET/유니온 파인드(DSU, Union Find).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Snippet/윤년 판별.py" beforeDir="false" afterPath="$PROJECT_DIR$/SNIPPET/윤년 판별.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Snippet/최대공약수 &amp; 최소공배수.py" beforeDir="false" afterPath="$PROJECT_DIR$/SNIPPET/최대공약수 &amp; 최소공배수.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -250,6 +245,7 @@
       <workItem from="1620449559198" duration="362000" />
       <workItem from="1620519480109" duration="873000" />
       <workItem from="1620521272686" duration="33000" />
+      <workItem from="1621075474759" duration="385000" />
     </task>
     <servers />
   </component>
