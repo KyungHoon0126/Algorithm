@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11dbb492-a36d-4e39-b781-d5495a250839" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PROGRAMMERS/Level 2/최댓값과 최솟값.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROGRAMMERS/Level 2/피보나치 수.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pratice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROGRAMMERS/Level 2/스킬트리.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -234,6 +232,7 @@
       <workItem from="1621930313636" duration="1214000" />
       <workItem from="1621931631506" duration="7080000" />
       <workItem from="1621951696252" duration="1840000" />
+      <workItem from="1622007684749" duration="1361000" />
     </task>
     <servers />
   </component>
@@ -296,7 +295,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Algorithm$3584______.coverage" NAME="3584번 - 가장 가까운 공통 조 Coverage Results" MODIFIED="1620029637769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/Algorithm$asdf.coverage" NAME="asdf Coverage Results" MODIFIED="1619936528844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
-    <SUITE FILE_PATH="coverage/Algorithm$Pratice.coverage" NAME="Pratice Coverage Results" MODIFIED="1621942341696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm$Pratice.coverage" NAME="Pratice Coverage Results" MODIFIED="1622011118501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm$5585___.coverage" NAME="5585번 - 거스름돈 Coverage Results" MODIFIED="1619936589743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/Algorithm$.coverage" NAME="팩토리얼 Coverage Results" MODIFIED="1620292337993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Snippet" />
     <SUITE FILE_PATH="coverage/Algorithm$_.coverage" NAME="피보나치 수열 Coverage Results" MODIFIED="1620292163474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Snippet" />
