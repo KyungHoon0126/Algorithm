@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11dbb492-a36d-4e39-b781-d5495a250839" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PROGRAMMERS/Level 2/스킬트리.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROGRAMMERS/JadenCase 문자열 만들기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROGRAMMERS/Level 2/최솟값 만들기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROGRAMMERS/다음 큰 숫자.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -232,7 +234,8 @@
       <workItem from="1621930313636" duration="1214000" />
       <workItem from="1621931631506" duration="7080000" />
       <workItem from="1621951696252" duration="1840000" />
-      <workItem from="1622007684749" duration="1361000" />
+      <workItem from="1622007684749" duration="2170000" />
+      <workItem from="1622019815985" duration="3274000" />
     </task>
     <servers />
   </component>
