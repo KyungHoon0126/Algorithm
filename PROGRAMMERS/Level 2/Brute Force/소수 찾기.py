@@ -22,9 +22,15 @@ def solution(numbers):
             if j[0] != 0:
                 num_permus.append(int(''.join(map(str, j))))
 
+    print(num_permus)
+
     # 소수 판별
     for val in num_permus:
         if is_prime_number(val):
             answer += 1
 
     return answer
+
+
+print(solution("17"))
+print(solution("011"))
