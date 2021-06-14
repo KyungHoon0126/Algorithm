@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="11dbb492-a36d-4e39-b781-d5495a250839" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/코딩테스트 대비/드래곤 알싸기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PROGRAMMERS/Level 1/문자열 다루기 기본.py" beforeDir="false" afterPath="$PROJECT_DIR$/PROGRAMMERS/Level 1/문자열 다루기 기본.py" afterDir="false" />
-    </list>
+    <list default="true" id="11dbb492-a36d-4e39-b781-d5495a250839" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,8 +31,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\kidi0\Project\Algorithm\PROGRAMMERS\Level 3\Heap" />
       <recent name="C:\Users\kidi0\Project\Algorithm\PROGRAMMERS\Level 2" />
+      <recent name="C:\Users\kidi0\Project\Algorithm\PROGRAMMERS\Level 3\Heap" />
       <recent name="C:\Users\kidi0\Project\Algorithm\코딩테스트 대비" />
       <recent name="C:\Users\kidi0\Project\Algorithm\Shinhan" />
       <recent name="C:\Users\kidi0\Project\Algorithm\PROGRAMMERS\SQL\SUM, MAX, MIN" />
@@ -307,6 +303,7 @@
       <workItem from="1622595249849" duration="13031000" />
       <workItem from="1622682617574" duration="17632000" />
       <workItem from="1622763637920" duration="6625000" />
+      <workItem from="1623367922072" duration="570000" />
     </task>
     <servers />
   </component>
